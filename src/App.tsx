@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="w-full h-full m-0">
       <header className="bg-dolomites bg-cover bg-[55%] h-screen">
-        <div className="text-2xl font-bold leading-5 text-sky-950 fixed top-[15%] left-[20%]">
+        <div className="text-md md:text-2xl font-permanent-marker text-sky-950 fixed top-[15%] left-[8%] md:left-[20%]">
           <TypeAnimation
             sequence={[
               "Hi, I'm Liza.",
